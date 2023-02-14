@@ -1,7 +1,7 @@
 Etape 1:
 Réponse: 1, 2, 4
 Etape 2:
-Réponse: 2
+Réponse: 4
 Etape 3:
 Réponse: 1, 3
 Etape 4:
